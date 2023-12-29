@@ -1,6 +1,7 @@
 ### Hi there 👋
 <div id="DevCard">
   <a href="https://app.daily.dev/majak"><img src="https://github.com/Majak0/Majak0/blob/main/devcard.svg" width="400" alt="Maxime Jacquot's Dev Card"/></a>
+  </br>
   <a href="https://app.daily.dev/majak">- My Account -</a>
 </div>
 
