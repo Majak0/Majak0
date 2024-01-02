@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning and doing my IT Monitoring on DailyDev
+- 🌱 I’m learning and doing my IT Monitoring on DailyDev
 <div id="DevCard">
   <a href="https://app.daily.dev/majak">- My Account -</a>
   </br>
@@ -9,17 +9,18 @@
 
 - 🔭 I’m currently working on
 <a href="https://majaktwitch.000webhostapp.com/"> my own website </a>
+
+- ⚡ Where i mostly train my code :
+    - codewars
+    - tryhackme
+    - adventofcode
 <!--
 **Majak0/Majak0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
