@@ -14,6 +14,7 @@
     - codewars
     - tryhackme
     - adventofcode
+    - Exercism
 <!--
 **Majak0/Majak0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
