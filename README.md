@@ -4,7 +4,7 @@
 <div id="DevCard">
   <a href="https://app.daily.dev/majak">- My Account -</a>
   </br>
-  <a href="https://app.daily.dev/majak"><img src="./devcard.png" width="400" alt="Maxime Jacquot's Dev Card"/></a>
+  <a href="https://app.daily.dev/majak"><img src="https://api.daily.dev/devcards/v2/MroJmp2AVkHm4GFgLOGhT.png?type=wide&r=36x" width="652" alt="Maxime Jacquot's Dev Card"/></a>
 </div>
 
 - 🔭 I’m currently working on
