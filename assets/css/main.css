@@ -751,6 +751,46 @@ section,
   font-weight: 400;
 }
 
+.hero .hobbies-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  max-width: 520px;
+  margin: 0 auto;
+}
+
+.hero .hobbies-row {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.hero .hobby-card {
+  background: var(--surface-color);
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 10px 30px color-mix(in srgb, var(--heading-color), transparent 90%);
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--heading-color);
+  transition: all 0.3s ease;
+}
+
+.hero .hobby-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 40px color-mix(in srgb, var(--heading-color), transparent 85%);
+}
+
+.hero .hobby-card i {
+  font-size: 1.25rem;
+  color: var(--accent-color);
+}
+
 .hero .hero-image {
   position: relative;
 }
@@ -797,7 +837,6 @@ section,
 }
 
 .hero .hero-image .image-wrapper .floating-card.card-1 {
-  top: 20%;
   left: -15%;
   z-index: 3;
 }
@@ -811,12 +850,10 @@ section,
 @media (max-width: 768px) {
   .hero .hero-image .image-wrapper .floating-card.card-1 {
     left: 0;
-    top: 10%;
   }
 }
 
 .hero .hero-image .image-wrapper .floating-card.card-2 {
-  top: 60%;
   right: -15%;
   z-index: 3;
 }
@@ -830,26 +867,41 @@ section,
 @media (max-width: 768px) {
   .hero .hero-image .image-wrapper .floating-card.card-2 {
     right: 0;
-    top: 50%;
   }
 }
 
 .hero .hero-image .image-wrapper .floating-card.card-3 {
-  bottom: 15%;
-  left: -10%;
+  left: 35%;
   z-index: 3;
 }
 
 @media (max-width: 992px) {
   .hero .hero-image .image-wrapper .floating-card.card-3 {
-    left: -5%;
+    left: 50%;
   }
 }
 
 @media (max-width: 768px) {
   .hero .hero-image .image-wrapper .floating-card.card-3 {
-    left: 0;
-    bottom: 5%;
+    top: 42%;
+    left: 50%;
+  }
+}
+
+.hero .hero-image .image-wrapper .floating-card.card-4 {
+  left: 35%;
+  z-index: 3;
+}
+
+@media (max-width: 992px) {
+  .hero .hero-image .image-wrapper .floating-card.card-4 {
+    left: 50%;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero .hero-image .image-wrapper .floating-card.card-4 {
+    left: 50%;
   }
 }
 
