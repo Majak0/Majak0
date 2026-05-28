@@ -751,6 +751,14 @@ section,
   font-weight: 400;
 }
 
+.hero .center {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
 .hero .hobbies-grid {
   display: flex;
   flex-direction: column;
